@@ -1,6 +1,6 @@
-# app-repo
+# Documentation / App flow 
 
-# SafarDadddy Hotel Booking App - Complete User Flow Guide
+<!-- #SafarDadddy Hotel Booking App - Complete User Flow Guide -->
 
 ## 🎯 App Overview
 SafarDadddy is a mobile hotel and villa booking platform with 5 main sections accessible through bottom navigation tabs.
