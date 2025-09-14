@@ -2,7 +2,7 @@
 
 <!-- #SafarDadddy Hotel Booking App - Complete User Flow Guide -->
 
-<!-- ## 🎯 App Overview
+ ## 🎯 App Overview
 SafarDadddy is a mobile hotel and villa booking platform with 5 main sections accessible through bottom navigation tabs.
 
 ---
@@ -412,7 +412,9 @@ Profile → Other Tabs
 8. **🤖 DISCOVER** → Use AI Buddy for personalized recommendations
 9. **👤 ACCOUNT** → Manage profile and preferences
 
-This creates a complete hotel booking experience similar to Booking.com but focused specifically on hotels and villas with the added AI assistant feature! -->
+This creates a complete hotel booking experience similar to Booking.com but focused specifically on hotels and villas with the added AI assistant feature! 
+
+#System Diagram
 
 
 # SafarDadddy Hotel Booking App - Complete System Flowchart
